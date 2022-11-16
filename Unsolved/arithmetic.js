@@ -7,7 +7,9 @@ var add = function(num1, num2) {
 };
 
 //TODO: returns the result of num1 minus num2
-var subtract = function(num1, num2) {};
+var subtract = function(num1, num2) {
+    return num1 - num2
+};
 
 //TODO: returns the result of num1 times num2
 var multiply = function(num1, num2) {};
