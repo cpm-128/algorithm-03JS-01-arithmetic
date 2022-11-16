@@ -17,4 +17,6 @@ var multiply = function(num1, num2) {
 };
 
 //TODO: returns the result of num1 divided by num2
-var divide = function(num1, num2) {};
+var divide = function(num1, num2) {
+    return num1 / num2
+};
